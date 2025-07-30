@@ -1,4 +1,4 @@
-# 🧠 Otimizando o Agendamento de Cursos com IA
+# 🧠 Iterar nos prompts para encontrar soluções
 
 Este projeto demonstra como utilizar engenharia de prompts com IA para resolver um dilema real de alocação de recursos em um curso de alfabetização em informática.
 
