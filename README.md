@@ -42,6 +42,12 @@ Projetos de automação com ESP8266, sensores e interface web:
 
 ---
 
+## Inteligência Artificial
+
+
+
+---
+
 ## 🏫 Seda College
 Registros de atividades complementares realizadas durante intercâmbio e cursos online.
 
