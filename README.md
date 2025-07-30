@@ -44,7 +44,7 @@ Projetos de automação com ESP8266, sensores e interface web:
 
 ## Inteligência Artificial
 
-
+- [🧠 Atividade: Iterar nos prompts para encontrar soluções](https://github.com/JoshuaPortfolioXL/Projetos-e-Atividades-Realizadas/tree/main/agendamento-curso-ia)
 
 ---
 
