@@ -1,4 +1,7 @@
-# 🧠 Iterar nos prompts para encontrar soluções
+# 🧠 Iterar nos Prompts para Encontrar Soluções
+### Caso aplicado: Agendamento de curso com restrição de recursos
+
+
 
 Este projeto demonstra como utilizar engenharia de prompts com IA para resolver um dilema real de alocação de recursos em um curso de alfabetização em informática.
 
