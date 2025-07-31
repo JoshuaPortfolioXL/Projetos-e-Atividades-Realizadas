@@ -44,8 +44,9 @@ Veja o passo a passo com os prompts, saídas, avaliações e prints neste arquiv
 
 Confira abaixo algumas capturas dos prompts e respostas utilizadas durante o processo:
 
-![Prompt reformulado](./imagens/5.png)  
-![Resposta reformulada da IA](./imagens/7.png)
+![Prompt reformulado](./imagens/7.png)
+
+![Resposta reformulada da IA](./imagens/5.png)
 
 ## 🚀 Aprendizados
 
