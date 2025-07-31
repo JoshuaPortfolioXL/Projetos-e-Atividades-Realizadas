@@ -46,6 +46,8 @@ Confira abaixo algumas capturas dos prompts e respostas utilizadas durante o pro
 
 ![Prompt reformulado](./imagens/7.png)
 
+---
+
 ![Resposta reformulada da IA](./imagens/5.png)
 
 ## 🚀 Aprendizados
