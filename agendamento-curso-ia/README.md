@@ -33,8 +33,13 @@ O processo resultou em sugestões eficazes de divisão de grupos, agendamento in
 
 ## 📄 Documentação Completa
 
+## 📄 Documentação Completa
+
 Veja o passo a passo com os prompts, saídas, avaliações e prints neste arquivo:  
 👉 [`tarefa-documentada.md`](./tarefa-documentada.md)
+
+📎 Também disponível em formato PDF:  
+👉 [`tarefa-documentada.pdf`](./tarefa-documentada.pdf)
 
 ## 📸 Exemplos
 
@@ -51,7 +56,7 @@ Confira abaixo algumas capturas dos prompts e respostas utilizadas durante o pro
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- ChatGPT (IA generativa)
+- Gemini (IA generativa)
 - Markdown para documentação
 - GitHub para versionamento
 
