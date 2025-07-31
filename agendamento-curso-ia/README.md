@@ -37,7 +37,7 @@ Veja o passo a passo com os prompts, saídas, avaliações e prints neste arquiv
 👉 [`tarefa-documentada.md`](./tarefa-documentada.md)
 
 📎 Também disponível em formato PDF:  
-👉 [`tarefa-documentada.pdf`](./agendamento-curso-ia/Iterar nos Prompts para Encontrar Soluções (1).pdf)
+👉 [`tarefa-documentada.pdf`](./Iterar-nos-Prompts-para-Encontrar-Soluções(1).pdf)
 
 ## 📸 Exemplos
 
