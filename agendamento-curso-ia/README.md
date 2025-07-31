@@ -33,8 +33,6 @@ O processo resultou em sugestões eficazes de divisão de grupos, agendamento in
 
 ## 📄 Documentação Completa
 
-## 📄 Documentação Completa
-
 Veja o passo a passo com os prompts, saídas, avaliações e prints neste arquivo:  
 👉 [`tarefa-documentada.md`](./tarefa-documentada.md)
 
