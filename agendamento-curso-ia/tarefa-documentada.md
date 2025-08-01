@@ -43,7 +43,9 @@ A IA apresentou três opções:
 2. **Modelo híbrido (presencial + online)**  
 3. **Compartilhamento ou rotação de computadores**
 
-📸 *Inserir imagem: print da primeira resposta gerada pela IA (dividida em partes se necessário)*
+📸 ![Prompt reformulado](./imagens/1.1.png)   
+![Prompt reformulado](./imagens/2.2.png)   
+![Prompt reformulado](./imagens/3.3.png)
 
 ---
 
