@@ -31,7 +31,7 @@ A proposta era consultar uma IA para solucionar um dilema real, aplicando engenh
 Resolver um problema de dilema de agendamento:
 Como parte de um programa de extensão educacional, você está organizando um curso de alfabetização em informática que se reunirá duas horas por semana. Sua organização sem fins lucrativos tem um número limitado de computadores. Há apenas 20 computadores disponíveis para 35 alunos registrados. Você decide usar uma ferramenta de IA para encontrar soluções para esse desafio."
 
-📸   ![Prompt reformulado](./imagens/0.png)
+![Prompt reformulado](./imagens/0.png)
 
 ---
 
@@ -43,9 +43,9 @@ A IA apresentou três opções:
 2. **Modelo híbrido (presencial + online)**  
 3. **Compartilhamento ou rotação de computadores**
 
-📸 ![Prompt reformulado](./imagens/1.1.png)   
-![Prompt reformulado](./imagens/2.2.png)   
-![Prompt reformulado](./imagens/3.3.png)
+![Prompt reformulado](./imagens/1.1.png)      
+![Prompt reformulado](./imagens/2.2.png)      
+![Prompt reformulado](./imagens/3.3.png)   
 
 ---
 
