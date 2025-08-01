@@ -29,7 +29,6 @@ A proposta era consultar uma IA para solucionar um dilema real, aplicando engenh
 **Prompt enviado à IA:**  
 > Prompt:"estou fazendo uma atividade que envolve consultar uma IA para solucionar um dilema, confira:
 Resolver um problema de dilema de agendamento:
-
 Como parte de um programa de extensão educacional, você está organizando um curso de alfabetização em informática que se reunirá duas horas por semana. Sua organização sem fins lucrativos tem um número limitado de computadores. Há apenas 20 computadores disponíveis para 35 alunos registrados. Você decide usar uma ferramenta de IA para encontrar soluções para esse desafio."
 
 📸 *Inserir imagem: print do prompt original enviado à IA*
