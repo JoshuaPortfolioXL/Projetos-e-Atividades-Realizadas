@@ -115,6 +115,8 @@ A IA sugeriu:
 ### Aplicação futura
 > Acredito que um bom prompt segue uma estrutura simples: **Tarefa, Contexto, Referências, Avaliar e Iterar**. Aplicando essa estrutura na tarefa realizada, alcancei um resultado satisfatório.
 
+![Prompt reformulado](./imagens/11.png)
+
 ---
 
 📎 [Ver versão final com imagens (PDF)](https://github.com/JoshuaPortfolioXL/Projetos-e-Atividades-Realizadas/blob/main/agendamento-curso-ia/Iterar%20nos%20Prompts%20para%20Encontrar%20Solu%C3%A7%C3%B5es%20(1).pdf)
