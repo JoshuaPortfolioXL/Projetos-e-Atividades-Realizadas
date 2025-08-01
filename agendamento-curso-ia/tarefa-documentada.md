@@ -51,14 +51,17 @@ A IA apresentou três opções:
 
 ## 🧐 Etapa 2: Avaliação Crítica da Primeira Resposta
 
-**As sugestões são práticas e acionáveis?**  
-✔️ Sim. As opções 1 e 2 são viáveis e aplicáveis.
+Identifique as áreas em que o resultado poderia ser mais útil, específico ou melhor alinhado com suas necessidades. Pergunte a si mesmo:
 
-**A IA interpretou mal o contexto?**  
-⚠️ Sim. Sugeriu o uso de outras ferramentas de IA, enquanto o objetivo era que ela mesma resolvesse o dilema.
+1) As sugestões são práticas e acionáveis? Sim, as opções que eu acredito serem mais pertinentes e aplicáveis são a 1 e a opção 2.
 
-**Quais partes foram menos úteis?**  
-✖️ A opção 3 (compartilhamento de computadores).
+2) A ferramenta de IA fez alguma suposição incorreta ou interpretou mal o contexto? Sim. Inicialmente quando eu contextualizei ela dizendo: "estou fazendo uma atividade que envolve consultar uma IA para solucionar um dilema" acredito que ela não entendeu que a IA da qual eu me referia era ele próprio e a questão envolvia questiona-lo diretamente para retornar apenas a solução para o problema e não necessariamente integrar uma IA à solução, gerando partes não tão importantes assim na saída/solução.
+
+3) Quais fatores importantes não foram abordados? Acredito que todos os fatores foram abordados, inclusive aqueles que partiram de sua interpretação errônea.
+
+4) Quais partes da resposta são mais úteis ou menos úteis? A menos útil no caso, opção 3, acho que não tinha necessidade de sugerir uma opção tão inadequada, além das opções que envolvem algum suporte de IA, acredito que integrar uma IA nas aulas como um explicador rápido para os alunos possa ser algo a acrescentar no projeto mas a abordagem que a IA seguiu não confere com esses parâmetros.
+
+5) Que informações adicionais ajudariam a melhorar essas soluções? Prompts mais concisos e contextos mais claros, revisar a saída e iterar para melhorias, assim como estou fazendo, um processo cíclico onde o objetivo é sempre a melhoria.
 
 ---
 
