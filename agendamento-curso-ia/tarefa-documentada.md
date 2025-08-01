@@ -105,4 +105,4 @@ A IA sugeriu:
 
 ---
 
-📎 [Ver versão final com imagens (PDF)](./tarefa-documentada.pdf)
+📎 [Ver versão final com imagens (PDF)](https://github.com/JoshuaPortfolioXL/Projetos-e-Atividades-Realizadas/blob/main/agendamento-curso-ia/Iterar%20nos%20Prompts%20para%20Encontrar%20Solu%C3%A7%C3%B5es%20(1).pdf)
