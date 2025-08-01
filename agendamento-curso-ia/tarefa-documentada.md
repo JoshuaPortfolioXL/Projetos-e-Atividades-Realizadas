@@ -67,10 +67,14 @@ Identifique as áreas em que o resultado poderia ser mais útil, específico ou 
 
 ## 🔁 Etapa 3: Iteração com Novo Prompt
 
-**Prompt reformulado:**  
-> "Ajuda para resolver um dilema sobre problemas de agendamento: (...) Minha organização sem fins lucrativos tem um número limitado de computadores... Preciso de sua ajuda para solucionar esse desafio!"
+![Prompt reformulado](./imagens/10.png)
 
-📸 *Inserir imagem: print do novo prompt reformulado enviado à IA*
+**Prompt reformulado:**  
+> "Ajuda para resolver um dilema sobre problemas de agendamento:
+Como parte de um programa de extensão educacional, você precisa organizar um curso de alfabetização em informática que se reunirá duas horas por semana; O curso tem duração de 8 semanas; Alguns alunos são completamente iniciantes, enquanto outros têm conhecimentos básicos de informática;  A instalação está disponível de segunda a sexta-feira, das 9h às 17h; Cursos anteriores mostraram que a aprendizagem entre pares pode ser eficaz.
+Minha organização sem fins lucrativos tem um número limitado de computadores. Há apenas 20 computadores disponíveis para 35 alunos registrados. Preciso de sua ajuda para solucionar esse desafio!"
+
+![Prompt reformulado](./imagens/7.png)
 
 ---
 
@@ -84,7 +88,8 @@ A IA sugeriu:
 - Mentoria entre pares  
 - Exemplo de agendamento coerente com o horário disponível
 
-📸 *Inserir imagem: print da nova resposta da IA após reformulação do prompt*
+![Prompt reformulado](./imagens/5.png)   
+![Prompt reformulado](./imagens/6.png)
 
 ---
 
